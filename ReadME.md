@@ -10,7 +10,7 @@
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 #### Come with me to see my learning path, day by day!
-<hr>
+.<hr>
 
 
 <!--
