@@ -2,7 +2,7 @@
 ### An brief presentation of myself!
 
 #### I'm an 21yr'ol person, starting in the coding world, specifically in web development, encouraged by my dad, wgi is a senior professional in Brazil.
-![Miki000000 GitHub stats](https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=dracula&hide_title=true)<br>
+![Miki000000 GitHub stats](https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=tokyonight&hide_title=true)<br>
 ##### Here is more information about my learning and stacks
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miki000000&layout=compact)<br>
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
