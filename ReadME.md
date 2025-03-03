@@ -10,8 +10,12 @@
 I'm a 23-year-old developer passionate about coding, especially in backend and web development. Inspired by my dad, a senior professional in Brazil, I'm always eager to learn and explore new technologies.
 
 <div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/Miki000000">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=synthwave&hide_title=true" />
+  </a>
+  <a href="https://github.com/Miki000000">
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miki000000&theme=synthwave&layout=donut&langs_count=8" />
+  </a>
 </div>
 
 ---
@@ -22,10 +26,26 @@ I'm a 23-year-old developer passionate about coding, especially in backend and w
 
 ---
 
-## Goals for This Year
+## 💻 IDEs & OS
+
+🖥 **IDEs:**  
+[![IDEs](https://skillicons.dev/icons?i=rider,idea,vscode)](https://skillicons.dev)
+
+🖥 **Operating Systems:**  
+[![OS](https://skillicons.dev/icons?i=ubuntu,debian,arch)](https://skillicons.dev)
+
+---
+
+## 🗄️ Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,redis,supabase,firebase)](https://skillicons.dev)
+
+---
+
+## 🎯 Goals for This Year
 
 📌 **Learning:**  
-[![Goals](https://skillicons.dev/icons?i=kubernetes,terraform,aws,azure)](https://skillicons.dev)
+[![Goals](https://skillicons.dev/icons?i=kubernetes,terraform,aws,azure,rabbitmq,kafka,githubactions)](https://skillicons.dev)
 
 🎉 **For Fun:**  
 [![For Fun](https://skillicons.dev/icons?i=elixir,rust,zig)](https://skillicons.dev)
