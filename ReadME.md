@@ -9,12 +9,14 @@
 ## About Me
 I'm a 23-year-old developer passionate about coding, especially in backend and web development. Inspired by my dad, a senior professional in Brazil, I'm always eager to learn and explore new technologies.
 
-<a href="https://github.com/Miki000000">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=synthwave&hide_title=true" />
-</a>
-<a href="https://github.com/Miki000000">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Miki000000&theme=synthwave&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/Miki000000">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=synthwave&hide_title=true" />
+  </a>
+  <a href="https://github.com/Miki000000">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miki000000&theme=synthwave&layout=donut&langs_count=8" />
+  </a>
+</div>
 
 ---
 
@@ -36,6 +38,7 @@ I'm a 23-year-old developer passionate about coding, especially in backend and w
 
 ### Join Me on My Learning Path!
 Follow my journey as I explore and master new technologies every day.
+
 
 
 
