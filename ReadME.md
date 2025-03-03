@@ -5,20 +5,38 @@
 </p>
 
 # Hello! Welcome to my GitHub!
-### An brief presentation of myself!
 
-#### I'm an 23yr'ol person, starting in the coding world, specifically in web development, encouraged by my dad, wgi is a senior professional in Brazil.
-![Miki000000 GitHub stats](https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=tokyonight&hide_title=true)<br>
-##### Here is more information about my learning and stacks
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miki000000&show_icons=true&locale=en&theme=tokyonight" alt="ovi" /><br>
-<p align="left">
-  <a href="https://skillicons.dev">   
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres" />
-  </a>
-</p>
+## About Me
+I'm a 23-year-old developer passionate about coding, especially in backend and web development. Inspired by my dad, a senior professional in Brazil, I'm always eager to learn and explore new technologies.
 
-#### Come with me to see my learning path, day by day!
-<hr>
+<a href="https://github.com/Miki000000">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=synthwave&hide_title=true" />
+</a>
+<a href="https://github.com/Miki000000">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Miki000000&theme=synthwave&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+---
+
+## 🛠 Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,bun,solidjs,react,next,reactnative,cs,dotnet,aspnet,kotlin,spring,ktor,docker,dockercompose,dockerswarm)](https://skillicons.dev)
+
+---
+
+## Goals for This Year
+
+📌 **Learning:**  
+[![Goals](https://skillicons.dev/icons?i=kubernetes,terraform,aws,azure)](https://skillicons.dev)
+
+🎉 **For Fun:**  
+[![For Fun](https://skillicons.dev/icons?i=elixir,rust,zig)](https://skillicons.dev)
+
+---
+
+### Join Me on My Learning Path!
+Follow my journey as I explore and master new technologies every day.
+
 
 
 <!--
