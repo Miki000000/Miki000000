@@ -4,69 +4,101 @@
   </a>
 </p>
 
-# Hello! Welcome to my GitHub!
+<h1 align="center">Hello! Welcome to my GitHub</h1>
 
-## About Me
-I'm a 23-year-old developer passionate about coding, especially in backend and web development. Inspired by my dad, a senior professional in Brazil, I'm always eager to learn and explore new technologies.
+## 👨‍💻 About Me
 
-<div style="display: flex; justify-content: space-between;">
+I'm a **Fullstack Software Engineer** with a strong focus on **backend development**, specialized in **GoLang** and **TypeScript (Node.js)**.  
+I'm constantly exploring new technologies and diving deep into distributed systems, high-performance services, and scalable architecture.
+
+---
+
+<details>
+<summary><strong>📊 GitHub Stats</strong></summary>
+
+<p align="center">
   <a href="https://github.com/Miki000000">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=synthwave&hide_title=true" />
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=dark&hide_title=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=default&hide_title=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&hide_title=true" />
+    </picture>
   </a>
   <a href="https://github.com/Miki000000">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miki000000&theme=synthwave&layout=donut&langs_count=8" />
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miki000000&layout=donut&langs_count=8&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miki000000&layout=donut&langs_count=8&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miki000000&layout=donut&langs_count=8" />
+    </picture>
   </a>
-</div>
+</p>
+
+</details>
 
 ---
 
-## 🛠 Tech Stack
+<details>
+<summary><strong>💻 Tech Stack</strong></summary>
 
-[![Tech Stack](https://skillicons.dev/icons?i=js,ts,bun,solidjs,react,next,reactnative,cs,dotnet,aspnet,kotlin,spring,ktor,docker,dockercompose,dockerswarm)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=go,space,space,ts,nextjs,vite,nodejs,bun&theme=dark)](https://skillicons.dev)
 
----
-
-## 💻 IDEs & OS
-
-🖥 **IDEs:**  
-[![IDEs](https://skillicons.dev/icons?i=rider,idea,vscode)](https://skillicons.dev)
-
-🖥 **Operating Systems:**  
-[![OS](https://skillicons.dev/icons?i=ubuntu,debian,arch)](https://skillicons.dev)
+</details>
 
 ---
 
-## 🗄️ Databases
+<details>
+<summary><strong>🛠 Tools & IDEs</strong></summary>
 
-[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,redis,supabase,firebase)](https://skillicons.dev)
+🖥️ **IDEs:**  
+[![IDEs](https://skillicons.dev/icons?i=vscode,idea,rider&theme=dark)](https://skillicons.dev)
+
+🖥️ **Operating Systems:**  
+[![OS](https://skillicons.dev/icons?i=arch,ubuntu,debian&theme=dark)](https://skillicons.dev)
+
+🧰 **Tools & Platforms:**  
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,kafka,rabbitmq&theme=dark)](https://skillicons.dev)
+
+</details>
 
 ---
 
-## 🎯 Goals for This Year
+<details>
+<summary><strong>🗄️ Databases & Caching</strong></summary>
 
-📌 **Learning:**  
-[![Goals](https://skillicons.dev/icons?i=kubernetes,terraform,aws,azure,rabbitmq,kafka,githubactions)](https://skillicons.dev)
+**Databases:**  
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite&theme=dark)](https://skillicons.dev)
+
+**Caching / Realtime:**  
+[![Caching](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🎯 Goals for This Year</strong></summary>
+
+📌 **Currently Learning:**  
+[![Learning](https://skillicons.dev/icons?i=terraform,aws,azure&theme=dark)](https://skillicons.dev)
 
 🎉 **For Fun:**  
-[![For Fun](https://skillicons.dev/icons?i=elixir,rust,zig)](https://skillicons.dev)
+[![Fun](https://skillicons.dev/icons?i=elixir,rust,zig&theme=dark)](https://skillicons.dev)
+
+</details>
 
 ---
 
-### Join Me on My Learning Path!
-Follow my journey as I explore and master new technologies every day.
-
-
-
-
-<!--
-**Miki000000/Miki000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Join me on my learning journey!
+Follow along as I explore, build, and grow with new technologies every day.
