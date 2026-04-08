@@ -2,16 +2,14 @@ name: GitHub Readme Stats
 on:
   schedule:
     - cron: '0 0 * * *' # Roda todo dia à meia-noite
-  push:
-    branches: [ main ]
-  workflow_dispatch: # Permite rodar manualmente no botão
+  workflow_dispatch: # Permite rodar manualmente pelo botão "Run workflow"
 
 jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Stats
-        uses: github-readme-stats/github-readme-stats-action@v1 # Action oficial/recomendada
+      - name: Generate Stats Card
+        uses: readme-stats/github-readme-stats-action@v1 # <--- NOME CORRETO
         with:
           gh_token: ${{ secrets.PAT_TOKEN }}
           user: Miki000000
