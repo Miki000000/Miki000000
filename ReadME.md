@@ -20,26 +20,16 @@ I'm constantly exploring new technologies and diving deep into distributed syste
   <a href="https://github.com/Miki000000">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=dark&hide_title=true#gh-dark-mode-only"
+      src="https://github-readme-stats-miki000000.vercel.app/api?username=Miki000000&show_icons=true&theme=dark&hide_title=true&include_all_commits=true#gh-dark-mode-only"
       alt="GitHub Stats (Dark)"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=Miki000000&show_icons=true&theme=default&hide_title=true#gh-light-mode-only"
-      alt="GitHub Stats (Light)"
     />
   </a>
 
   <a href="https://github.com/Miki000000">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miki000000&layout=donut&langs_count=8&theme=dark#gh-dark-mode-only"
+      src="https://github-readme-stats-miki000000.vercel.app/api/top-langs/?username=Miki000000&include_all_commits=true&layout=donut&langs_count=8&theme=dark#gh-dark-mode-only"
       alt="Top Langs (Dark)"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miki000000&layout=donut&langs_count=8&theme=default#gh-light-mode-only"
-      alt="Top Langs (Light)"
     />
   </a>
 </p>
